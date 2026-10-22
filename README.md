@@ -1,6 +1,6 @@
 # Lab 7: Git Branching Practice
 
-A small C++ project for practising configuration management with Git.
+A small C++ project for learning Git configuration management and branching.
 
 ## Project files
 

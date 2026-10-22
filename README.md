@@ -1,6 +1,6 @@
 # Lab 7: Git Branching Practice
 
-A beginner-friendly project to practise Git configuration management and branch collaboration.
+A beginner-friendly C++ project for practising Git configuration management, branches, commits, collaboration, and conflict resolution.
 
 ## Project files
 
